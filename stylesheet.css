@@ -15,6 +15,10 @@ article {
 .bottom-container {
     text-align: left;
 }
+.sidebar-container {
+    text-align: left;
+}
+
 .section-heading {
     -webkit-transform: rotate(-90deg);
     float: left;
@@ -44,7 +48,9 @@ article {
     font-size: 12px;
     padding-bottom: ;
 }
-
+.section-skills {
+    text-align: left;
+}
 
 
 
